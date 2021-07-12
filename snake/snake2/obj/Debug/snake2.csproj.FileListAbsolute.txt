@@ -1,0 +1,9 @@
+c:\users\dauren\documents\visual studio 2013\Projects\snake2\snake2\bin\Debug\snake2.exe.config
+c:\users\dauren\documents\visual studio 2013\Projects\snake2\snake2\bin\Debug\snake2.exe
+c:\users\dauren\documents\visual studio 2013\Projects\snake2\snake2\bin\Debug\snake2.pdb
+c:\users\dauren\documents\visual studio 2013\Projects\snake2\snake2\obj\Debug\snake2.csprojResolveAssemblyReference.cache
+c:\users\dauren\documents\visual studio 2013\Projects\snake2\snake2\obj\Debug\snake2.Form1.resources
+c:\users\dauren\documents\visual studio 2013\Projects\snake2\snake2\obj\Debug\snake2.Properties.Resources.resources
+c:\users\dauren\documents\visual studio 2013\Projects\snake2\snake2\obj\Debug\snake2.csproj.GenerateResource.Cache
+c:\users\dauren\documents\visual studio 2013\Projects\snake2\snake2\obj\Debug\snake2.exe
+c:\users\dauren\documents\visual studio 2013\Projects\snake2\snake2\obj\Debug\snake2.pdb

@@ -1,0 +1,12 @@
+c:\users\2014\documents\visual studio 2013\Projects\2\2\bin\Debug\2.exe.config
+c:\users\2014\documents\visual studio 2013\Projects\2\2\bin\Debug\2.exe
+c:\users\2014\documents\visual studio 2013\Projects\2\2\bin\Debug\2.pdb
+c:\users\2014\documents\visual studio 2013\Projects\2\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+c:\users\2014\documents\visual studio 2013\Projects\2\2\obj\Debug\_2.Form1.resources
+c:\users\2014\documents\visual studio 2013\Projects\2\2\obj\Debug\_2.Properties.Resources.resources
+c:\users\2014\documents\visual studio 2013\Projects\2\2\obj\Debug\2.csproj.GenerateResource.Cache
+c:\users\2014\documents\visual studio 2013\Projects\2\2\obj\Debug\2.exe
+c:\users\2014\documents\visual studio 2013\Projects\2\2\obj\Debug\2.pdb
+C:\Users\2014\Documents\Visual Studio 2013\Projects\Новая папка\шарик\2\bin\Debug\2.exe.config
+C:\Users\2014\Documents\Visual Studio 2013\Projects\Новая папка\шарик\2\obj\Debug\2.exe
+C:\Users\2014\Documents\Visual Studio 2013\Projects\Новая папка\шарик\2\obj\Debug\2.pdb
